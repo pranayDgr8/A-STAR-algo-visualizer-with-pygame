@@ -1,7 +1,6 @@
 # A-algo-visualizer-with-pygame
 See how A* works using python
 game grid:
-![image](https://user-images.githubusercontent.com/63444224/151002254-749bc894-e1d9-429c-b67a-670f90e03453.png)
 
 Selecting Start(yellow) and End(blue) position
 ![image](https://user-images.githubusercontent.com/63444224/151002486-6090e82a-7a69-4de6-81f4-d15fbd7539eb.png)
