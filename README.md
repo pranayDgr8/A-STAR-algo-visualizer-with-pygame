@@ -12,4 +12,4 @@ Adding obstacles in between:
 press 'space bar' to begin visualization:
 ![image](https://user-images.githubusercontent.com/63444224/151002882-2bdc76c2-f9c0-4157-89d8-b8ff69478fe3.png)
 
-
+THE PURPLE PATH IS THE MOST OPTIMAL PATH BETWEEN THE 2 POINTS
